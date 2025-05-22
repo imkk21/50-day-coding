@@ -1,3 +1,5 @@
+
+
 class Solution {
     public static int findEquilibrium(int arr[]) {
         int n = arr.length;
